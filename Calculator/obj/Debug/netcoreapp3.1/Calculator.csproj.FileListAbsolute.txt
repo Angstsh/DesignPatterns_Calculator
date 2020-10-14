@@ -1,0 +1,13 @@
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\A_Code\B_Workspace\C_VS2019WSP\D_Common\DesignPatterns\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
