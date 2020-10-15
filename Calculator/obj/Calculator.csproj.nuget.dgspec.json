@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\A_Code\\B_Workspace\\C_VS2019WSP\\D_Common\\DesignPatterns\\Calculator\\Calculator.csproj": {}
+    "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\calculate\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "D:\\A_Code\\B_Workspace\\C_VS2019WSP\\D_Common\\DesignPatterns\\Calculator\\Calculator.csproj": {
+    "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\calculate\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\A_Code\\B_Workspace\\C_VS2019WSP\\D_Common\\DesignPatterns\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\calculate\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "D:\\A_Code\\B_Workspace\\C_VS2019WSP\\D_Common\\DesignPatterns\\Calculator\\Calculator.csproj",
+        "projectPath": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\calculate\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\SHENGHUI\\.nuget\\packages\\",
-        "outputPath": "D:\\A_Code\\B_Workspace\\C_VS2019WSP\\D_Common\\DesignPatterns\\Calculator\\obj\\",
+        "outputPath": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\calculate\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
