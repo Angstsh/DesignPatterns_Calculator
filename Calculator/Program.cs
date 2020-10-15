@@ -8,15 +8,18 @@ namespace Calculator
         {
             try
             {
+                Operation oper;
                 Console.Write("请输入数字A：");
                 string strNumberA = Console.ReadLine();
                 Console.Write("请输入运算符号（+、-、*、/）：");
                 string strOperate = Console.ReadLine();
                 Console.Write("请输入数字B：");
                 string strNumberB = Console.ReadLine();
-                string strResult = "";
-                strResult = Convert.ToString(Operation.GetResult(Convert.ToDouble(strNumberA),Convert.ToDouble(strNumberB),strOperate));
-                Console.WriteLine("结果是：" + strResult);
+                oper = OperationFactory.createOperate(strOperate);
+                oper.NumberA = Convert.ToDouble(strNumberA);
+                oper.NumberB = Convert.ToDouble(strNumberB);
+                double result = oper.GetResult();
+                Console.WriteLine("结果是：" + result);
                 Console.ReadLine();
             }
             catch (Exception ex)
